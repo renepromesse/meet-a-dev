@@ -1,0 +1,13 @@
+#mainSection{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+}
+
+#mainSection .box{
+    width:300px;
+    border: 1px solid blue;
+}
+#mainSection .middle{
+    width: 700px;
+}
